@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alial\\source\\repos\\MyWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\views\\public\\_redirects||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\views\\public\\_redirects||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\netlify.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\wwwroot\\netlify.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|c:\\users\\alial\\source\\repos\\mywebsite\\mywebsite\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02DDB4A-E925-421F-B9A9-CE2AF305ABE8}|MyWebsite\\MyWebsite.csproj|solutionrelative:mywebsite\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 338,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\index.html",
+              "RelativeDocumentMoniker": "MyWebsite\\Views\\index.html",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\index.html",
+              "RelativeToolTip": "MyWebsite\\Views\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-12T13:09:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_redirects",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\Public\\_redirects",
+              "RelativeDocumentMoniker": "MyWebsite\\Views\\Public\\_redirects",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\Public\\_redirects",
+              "RelativeToolTip": "MyWebsite\\Views\\Public\\_redirects",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T12:43:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "netlify.toml",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\wwwroot\\netlify.toml",
+              "RelativeDocumentMoniker": "MyWebsite\\wwwroot\\netlify.toml",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\wwwroot\\netlify.toml",
+              "RelativeToolTip": "MyWebsite\\wwwroot\\netlify.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T12:03:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "MyWebsite\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "MyWebsite\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T08:48:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndexModel.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\IndexModel.cs",
+              "RelativeDocumentMoniker": "MyWebsite\\IndexModel.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\IndexModel.cs",
+              "RelativeToolTip": "MyWebsite\\IndexModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:23:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:12:03.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "MyWebsite\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\MyWebsite\\MyWebsite\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "MyWebsite\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:10:40.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

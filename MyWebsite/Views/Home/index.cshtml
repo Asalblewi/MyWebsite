@@ -1,0 +1,181 @@
+﻿@page
+@model IndexModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ali's Portfolio</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" />
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" />
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" />
+
+    <style>
+        body {
+            background-image: url('images/cooding.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid white;
+        }
+
+        .content {
+            text-align: center;
+            margin-top: 20vh;
+        }
+
+        .btn-custom {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: white;
+            border: 1px solid white;
+            transition: all 0.3s ease-in-out;
+        }
+
+            .btn-custom:hover {
+                background-color: white;
+                color: black;
+                transform: scale(1.1);
+            }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1050 !important;
+            data-bs-backdrop ="static";
+        }
+        
+
+        .modal-content {
+            background-color: #fff;
+            margin: 15% auto;
+            padding: 20px;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+        .close {
+            float: right;
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        .share-icons a {
+            margin: 10px;
+            text-decoration: none;
+            color: #000;
+        }
+
+        .modal-backdrop {
+            z-index: 1040 !important;
+        }
+
+       
+
+
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="content">
+
+                    <img src="~/images/cp.jpg"  alt="Profile Image" class="profile-img mb-4" />
+                    <h1 class="mb-3">Ali Alblewi</h1>
+                    <p class="lead mb-4">Software Engineering - ASP.NET Core</p>
+                    <p class="mb-4">Riyadh</p>
+
+                    <div>
+                        <a href="https://www.linkedin.com/in/ali-alblewi-566307261/" target="_blank" class="btn btn-custom">
+                            <i class="bi bi-linkedin"></i> LinkedIn
+                        </a>
+                        <a href="https://wa.me/+966541640695" target="_blank" class="btn btn-custom">
+                            <i class="bi bi-whatsapp"></i> WhatsApp
+                        </a>
+
+                        <!-- Download CV Button -->
+                        <a href="~/files/Ali_CV.pdf" class="btn btn-custom" download>
+                            <i class="bi bi-download"></i> Download My CV
+                        </a>
+
+
+
+                        <!-- زر Share -->
+                        <button type="button" class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#shareModal">
+                            <i class="bi bi-share"></i> Share
+                        </button>
+
+                        <!-- نافذة Bootstrap المنبثقة -->
+                        <div class="modal fade" id="shareModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="shareModalLabel">Share</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <input type="text" class="form-control mb-3" value="https://example.com" id="shareLink" readonly>
+                                        <button class="btn btn-primary mb-3" onclick="copyLink()">
+                                            <i class="bi bi-clipboard"></i> Copy Link
+                                        </button>
+                                        <div class="d-flex justify-content-around">
+                                            <a href="sms:?body=https://example.com" target="_blank" class="btn btn-outline-secondary">
+                                                <i class="bi bi-chat-dots"></i> SMS
+                                            </a>
+                                            <a href="https://www.linkedin.com/shareArticle?url=https://example.com" target="_blank" class="btn btn-outline-primary">
+                                                <i class="bi bi-linkedin"></i> LinkedIn
+                                            </a>
+                                            <a href="https://wa.me/?text=https://example.com" target="_blank" class="btn btn-outline-success">
+                                                <i class="bi bi-whatsapp"></i> WhatsApp
+                                            </a>
+                                            <a href="mailto:?body=https://example.com" target="_blank" class="btn btn-outline-dark">
+                                                <i class="bi bi-envelope"></i> Email
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                
+                    </div> 
+                    
+                </div>
+    <script  src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+                <script src="~/js/script.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
